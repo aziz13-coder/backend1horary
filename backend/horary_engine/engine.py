@@ -2276,6 +2276,25 @@ class EnhancedTraditionalHoraryJudgmentEngine:
                 "solar_factors": solar_factors,
             }
 
+        # Prohibitions (abscission, classic prohibition) should immediately deny
+        if (not perfection.get("perfects") and
+                perfection.get("type") in {"abscission", "prohibition"}):
+            return {
+                "result": "NO",
+                "confidence": min(confidence, cfg().confidence.denial.frustration),
+                "reasoning": reasoning + [f"Prohibition: {perfection['reason']}"] ,
+                "timing": None,
+                "traditional_factors": {
+                    "perfection_type": perfection.get("type"),
+                    "prohibitor": getattr(perfection.get("prohibitor"), "value", None),
+                    "significator": getattr(perfection.get("significator"), "value", None),
+                    "reception": perfection.get("reception", "none"),
+                    "querent_strength": chart.planets[querent_planet].dignity_score,
+                    "quesited_strength": chart.planets[quesited_planet].dignity_score,
+                },
+                "solar_factors": solar_factors,
+            }
+
         # If a direct aspect exists, handle frustration or immediate denial before considering Moon aspects
         if "aspect" in perfection:
             frustration_result = self._check_frustration(
@@ -2937,7 +2956,7 @@ class EnhancedTraditionalHoraryJudgmentEngine:
             "reasoning": reasoning,
             "timing": None,
             "traditional_factors": {
-                "perfection_type": "none",
+                "perfection_type": perfection.get("type", "none"),
                 "querent_strength": chart.planets[querent_planet].dignity_score,
                 "quesited_strength": chart.planets[quesited_planet].dignity_score,
                 "reception": self._detect_reception_between_planets(chart, querent_planet, quesited_planet),
@@ -4509,8 +4528,13 @@ class EnhancedTraditionalHoraryJudgmentEngine:
         # 3. Direct timed perfection (future perfection within window) - ALWAYS CHECK when timeframe provided
         if window_days is not None:
             direct_timed = self._check_direct_timed_perfection(chart, querent, quesited, window_days)
-            if direct_timed and direct_timed.get("perfects", False):
-                return direct_timed
+            if direct_timed:
+                # If a prohibiting event is present, return immediately so later
+                # translation/collection logic doesn't overwrite it
+                if not direct_timed.get("perfects", False) and direct_timed.get("type") not in (None, "none"):
+                    return direct_timed
+                if direct_timed.get("perfects", False):
+                    return direct_timed
         
         # 3. Primary Translation of Light check (independent perfection route)
         # CRITICAL FIX: Check both translation methods and prioritize by timing

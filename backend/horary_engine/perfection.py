@@ -444,8 +444,15 @@ def check_future_prohibitions(
         chosen_event = earliest_tc_event
 
     if chosen_event:
-        print(f"Final chosen event: {chosen_event['payload']}")
-        return chosen_event["payload"]
+        payload = chosen_event["payload"]
+        # Normalize timing key so callers can rely on `t_event`
+        if "t_event" not in payload:
+            for key in ("t_prohibition", "t_abscission"):
+                if key in payload:
+                    payload["t_event"] = payload[key]
+                    break
+        print(f"Final chosen event: {payload}")
+        return payload
 
     print("Final chosen event: none (no prohibitions detected)")
     return {"prohibited": False, "type": "none", "reason": "No prohibitions detected"}
