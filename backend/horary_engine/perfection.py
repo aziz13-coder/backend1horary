@@ -120,6 +120,18 @@ def check_future_prohibitions(
         return _leg_valid(p_a, p_b, t)
 
     events: List[Dict[str, Any]] = []
+    earliest_prohibition: Optional[Dict[str, Any]] = None
+    earliest_tc_event: Optional[Dict[str, Any]] = None
+
+    def _record_event(event: Dict[str, Any]) -> None:
+        nonlocal earliest_prohibition, earliest_tc_event
+        events.append(event)
+        if event["payload"].get("prohibited"):
+            if earliest_prohibition is None or event["t"] < earliest_prohibition["t"]:
+                earliest_prohibition = event
+        else:
+            if earliest_tc_event is None or event["t"] < earliest_tc_event["t"]:
+                earliest_tc_event = event
 
     print(f"\n=== PROHIBITION CHECK DEBUG ===")
     print(f"Checking for prohibitions before {sig1.value}-{sig2.value} perfection in {days_ahead} days")
@@ -175,7 +187,7 @@ def check_future_prohibitions(
                             for a2 in ASPECT_TYPES:
                                 t_rcv = calc_aspect_time(recv_pos, other_pos, a2, chart.julian_day, days_ahead)
                                 if _valid(t_rcv, recv_pos, other_pos) and t_rcv < t_event:
-                                    events.append(
+                                    _record_event(
                                         {
                                             "t": t_rcv,
                                             "payload": {
@@ -189,7 +201,7 @@ def check_future_prohibitions(
                                         }
                                     )
 
-                        events.append(
+                        _record_event(
                             {
                                 "t": t_event,
                                 "payload": {
@@ -226,7 +238,7 @@ def check_future_prohibitions(
                         )
                         if has_reception and quality == "with difficulty":
                             reason += " (softened by reception)"
-                        events.append(
+                        _record_event(
                             {
                                 "t": t_event,
                                 "payload": {
@@ -273,7 +285,7 @@ def check_future_prohibitions(
                             for a2 in ASPECT_TYPES:
                                 t_rcv = calc_aspect_time(recv_pos, other_pos, a2, chart.julian_day, days_ahead)
                                 if _valid(t_rcv, recv_pos, other_pos) and t_rcv < t_event:
-                                    events.append(
+                                    _record_event(
                                         {
                                             "t": t_rcv,
                                             "payload": {
@@ -287,7 +299,7 @@ def check_future_prohibitions(
                                         }
                                     )
 
-                        events.append(
+                        _record_event(
                             {
                                 "t": t_event,
                                 "payload": {
@@ -304,7 +316,7 @@ def check_future_prohibitions(
                         )
                     else:
                         if t1 > 0 and (t1 <= t2 or t2 <= 0):
-                            events.append(
+                            _record_event(
                                 {
                                     "t": t1,
                                     "payload": {
@@ -318,7 +330,7 @@ def check_future_prohibitions(
                                 }
                             )
                         elif t2 > 0 and (t2 < t1 or t1 <= 0):
-                            events.append(
+                            _record_event(
                                 {
                                     "t": t2,
                                     "payload": {
@@ -332,7 +344,7 @@ def check_future_prohibitions(
                                 }
                             )
             elif valid1 and t1 > 0:
-                events.append(
+                _record_event(
                     {
                         "t": t1,
                         "payload": {
@@ -347,7 +359,7 @@ def check_future_prohibitions(
                 )
             elif valid2 and t2 > 0:
                 print(f"*** PROHIBITION DETECTED: {planet.value} {aspect.value} {sig2.value} in {t2} days ***")
-                events.append(
+                _record_event(
                     {
                         "t": t2,
                         "payload": {
@@ -361,6 +373,17 @@ def check_future_prohibitions(
                     }
                 )
 
-    if events:
-        return min(events, key=lambda e: e["t"])["payload"]
+    chosen_event: Optional[Dict[str, Any]] = None
+    if earliest_prohibition and (
+        earliest_tc_event is None or earliest_prohibition["t"] < earliest_tc_event["t"]
+    ):
+        chosen_event = earliest_prohibition
+    elif earliest_tc_event:
+        chosen_event = earliest_tc_event
+
+    if chosen_event:
+        print(f"Final chosen event: {chosen_event['payload']}")
+        return chosen_event["payload"]
+
+    print("Final chosen event: none (no prohibitions detected)")
     return {"prohibited": False, "type": "none", "reason": "No prohibitions detected"}
