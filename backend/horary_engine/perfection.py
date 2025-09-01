@@ -200,6 +200,37 @@ def check_future_prohibitions(
                                             },
                                         }
                                     )
+                        # Check if the translator is cut off before completing translation
+                        translator_abscised = False
+                        for other in CLASSICAL_PLANETS:
+                            if other in (planet, sig1, sig2):
+                                continue
+                            other_pos = chart.planets.get(other)
+                            if not other_pos:
+                                continue
+                            for a2 in ASPECT_TYPES:
+                                t_trans = calc_aspect_time(p_pos, other_pos, a2, chart.julian_day, days_ahead)
+                                if _valid(t_trans, p_pos, other_pos) and t_trans < t_event:
+                                    _record_event(
+                                        {
+                                            "t": t_trans,
+                                            "payload": {
+                                                "prohibited": True,
+                                                "type": "abscission",
+                                                "abscissor": other,
+                                                "significator": planet,
+                                                "t_abscission": t_trans,
+                                                "reason": f"{other.value} cuts off light carried by {planet.value} before translation",
+                                            },
+                                        }
+                                    )
+                                    translator_abscised = True
+                                    break
+                            if translator_abscised:
+                                break
+
+                        if translator_abscised:
+                            continue
 
                         _record_event(
                             {
@@ -238,6 +269,37 @@ def check_future_prohibitions(
                         )
                         if has_reception and quality == "with difficulty":
                             reason += " (softened by reception)"
+                        translator_abscised = False
+                        for other in CLASSICAL_PLANETS:
+                            if other in (planet, sig1, sig2):
+                                continue
+                            other_pos = chart.planets.get(other)
+                            if not other_pos:
+                                continue
+                            for a2 in ASPECT_TYPES:
+                                t_trans = calc_aspect_time(p_pos, other_pos, a2, chart.julian_day, days_ahead)
+                                if _valid(t_trans, p_pos, other_pos) and t_trans < t_event:
+                                    _record_event(
+                                        {
+                                            "t": t_trans,
+                                            "payload": {
+                                                "prohibited": True,
+                                                "type": "abscission",
+                                                "abscissor": other,
+                                                "significator": planet,
+                                                "t_abscission": t_trans,
+                                                "reason": f"{other.value} cuts off light carried by {planet.value} before translation",
+                                            },
+                                        }
+                                    )
+                                    translator_abscised = True
+                                    break
+                            if translator_abscised:
+                                break
+
+                        if translator_abscised:
+                            continue
+
                         _record_event(
                             {
                                 "t": t_event,
