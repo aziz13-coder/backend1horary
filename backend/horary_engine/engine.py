@@ -6055,11 +6055,14 @@ class EnhancedTraditionalHoraryJudgmentEngine:
         if abs(v_rel) < 1e-6:
             return None
 
-        delta = (A - theta0) % 360.0
-        if v_rel < 0:
-            delta -= 360.0
+        # Compute delta for both aspect polarities (e.g. 90° and -90° for a square)
+        delta1 = (A - theta0 + 180.0) % 360.0 - 180.0
+        delta2 = (-A - theta0 + 180.0) % 360.0 - 180.0
+        delta = delta1 if abs(delta1) < abs(delta2) else delta2
 
         t = delta / v_rel
+        if t < 0:
+            t += 360.0 / abs(v_rel)
         if t <= 0 or t > max_days:
             return None
         return t
