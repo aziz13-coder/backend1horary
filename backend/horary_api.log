@@ -1,0 +1,550 @@
+2025-09-01 04:48:02,832 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 04:48:03,062 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 04:48:03,075 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 04:48:03,076 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 04:48:03,076 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 04:48:03,077 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 04:48:03,077 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 04:48:03,077 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 04:48:03,077 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 04:48:03,077 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 04:48:03,077 - __main__ - INFO - Debug mode enabled
+2025-09-01 04:48:04,410 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:52525
+ * Running on http://10.0.0.4:52525
+2025-09-01 04:48:04,410 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 04:48:04,418 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 04:48:04,730 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 04:48:04,961 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 04:48:04,974 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 04:48:04,976 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 04:48:04,976 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 04:48:04,976 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 04:48:04,976 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 04:48:04,976 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 04:48:04,976 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 04:48:04,976 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 04:48:04,976 - __main__ - INFO - Debug mode enabled
+2025-09-01 04:48:04,987 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 04:48:04,989 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 05:06:04,156 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 05:06:04,390 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:06:04,402 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:06:04,404 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 05:06:04,404 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 05:06:04,404 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 05:06:04,404 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 05:06:04,404 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 05:06:04,404 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 05:06:04,404 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 05:06:04,404 - __main__ - INFO - Debug mode enabled
+2025-09-01 05:06:05,651 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:52525
+ * Running on http://10.0.0.4:52525
+2025-09-01 05:06:05,651 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 05:06:05,656 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 05:06:05,963 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 05:06:06,191 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:06:06,204 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:06:06,205 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 05:06:06,205 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 05:06:06,206 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 05:06:06,206 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 05:06:06,206 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 05:06:06,206 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 05:06:06,206 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 05:06:06,206 - __main__ - INFO - Debug mode enabled
+2025-09-01 05:06:06,215 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 05:06:06,217 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 05:10:47,110 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 05:10:47,340 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:10:47,352 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:10:47,354 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 05:10:47,354 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 05:10:47,354 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 05:10:47,354 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 05:10:47,354 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 05:10:47,354 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 05:10:47,354 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 05:10:47,354 - __main__ - INFO - Debug mode enabled
+2025-09-01 05:10:48,621 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-09-01 05:10:48,621 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 05:10:48,628 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 05:10:48,938 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 05:10:49,165 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:10:49,178 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:10:49,180 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 05:10:49,180 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 05:10:49,180 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 05:10:49,180 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 05:10:49,180 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 05:10:49,180 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 05:10:49,181 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 05:10:49,181 - __main__ - INFO - Debug mode enabled
+2025-09-01 05:10:49,192 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 05:10:49,194 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 05:10:58,855 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-09-01 05:10:58,855 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-09-01 05:10:58,856 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:10:58] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-09-01 05:10:58,858 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-09-01 05:10:59,898 - __main__ - INFO - health completed in 1.04s
+2025-09-01 05:10:59,898 - __main__ - INFO - Response: 200 - GET /api/health
+2025-09-01 05:10:59,898 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:10:59] "GET /api/health HTTP/1.1" 200 -
+2025-09-01 05:13:49,174 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 05:13:49,403 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:13:49,416 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:13:49,417 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 05:13:49,417 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 05:13:49,417 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 05:13:49,418 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 05:13:49,418 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 05:13:49,418 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 05:13:49,418 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 05:13:49,418 - __main__ - INFO - Debug mode enabled
+2025-09-01 05:13:50,746 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.0.0.4:5000
+2025-09-01 05:13:50,746 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-01 05:13:50,751 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 05:13:51,059 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 05:13:51,287 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:13:51,299 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:13:51,300 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 05:13:51,300 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 05:13:51,301 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 05:13:51,301 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 05:13:51,301 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 05:13:51,301 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 05:13:51,301 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 05:13:51,301 - __main__ - INFO - Debug mode enabled
+2025-09-01 05:13:51,310 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 05:13:51,312 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 05:14:04,140 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-09-01 05:14:04,140 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-09-01 05:14:04,140 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:04] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-09-01 05:14:04,142 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-09-01 05:14:05,368 - __main__ - INFO - health completed in 1.23s
+2025-09-01 05:14:05,368 - __main__ - INFO - Response: 200 - GET /api/health
+2025-09-01 05:14:05,368 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:05] "GET /api/health HTTP/1.1" 200 -
+2025-09-01 05:14:22,407 - __main__ - INFO - OPTIONS /api/get-timezone - 127.0.0.1
+2025-09-01 05:14:22,407 - __main__ - INFO - Response: 200 - OPTIONS /api/get-timezone
+2025-09-01 05:14:22,407 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:22] "OPTIONS /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 05:14:22,409 - __main__ - INFO - POST /api/get-timezone - 127.0.0.1
+2025-09-01 05:14:22,410 - __main__ - INFO - Getting timezone for location: israerl
+2025-09-01 05:14:22,702 - __main__ - WARNING - Location error: Geocoding failed for 'israerl': Location not found: 'israerl'. Please provide a more specific location.
+2025-09-01 05:14:22,703 - __main__ - INFO - get_timezone completed in 0.29s
+2025-09-01 05:14:22,703 - __main__ - INFO - Response: 404 - POST /api/get-timezone
+2025-09-01 05:14:22,703 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:22] "[33mPOST /api/get-timezone HTTP/1.1[0m" 404 -
+2025-09-01 05:14:23,338 - __main__ - INFO - POST /api/get-timezone - 127.0.0.1
+2025-09-01 05:14:23,338 - __main__ - INFO - Getting timezone for location: israe
+2025-09-01 05:14:23,980 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:14:23,995 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:14:23,995 - horary_engine.services.geolocation - INFO - === TIMEZONE DETECTION STARTED for 30.8124247, 34.8594762 ===
+2025-09-01 05:14:23,995 - horary_engine.services.geolocation - INFO - Using TimezoneFinder library
+2025-09-01 05:14:23,997 - horary_engine.services.geolocation - INFO - TimezoneFinder raw result: Asia/Jerusalem
+2025-09-01 05:14:23,997 - horary_engine.services.geolocation - INFO - Validating timezone result...
+2025-09-01 05:14:23,997 - horary_engine.services.geolocation - INFO - TIMEZONE VALIDATION: Checking Asia/Jerusalem for coordinates 30.8124247, 34.8594762
+2025-09-01 05:14:23,997 - horary_engine.services.geolocation - INFO - COORDINATE MATCH: 30.8124247,34.8594762 falls in range 29.5-33.5, 34.0-36.0
+2025-09-01 05:14:23,997 - horary_engine.services.geolocation - INFO - TIMEZONE OK: Asia/Jerusalem is correct for coordinates 30.8124247,34.8594762
+2025-09-01 05:14:23,997 - horary_engine.services.geolocation - INFO - === FINAL TIMEZONE: Asia/Jerusalem (after validation) ===
+2025-09-01 05:14:23,997 - __main__ - INFO - Enhanced timezone detection successful: Asia/Jerusalem for ?????
+2025-09-01 05:14:24,000 - __main__ - INFO - get_timezone completed in 0.66s
+2025-09-01 05:14:24,000 - __main__ - INFO - Response: 200 - POST /api/get-timezone
+2025-09-01 05:14:24,000 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:24] "POST /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 05:14:24,289 - __main__ - INFO - POST /api/get-timezone - 127.0.0.1
+2025-09-01 05:14:24,289 - __main__ - INFO - Getting timezone for location: israel
+2025-09-01 05:14:25,040 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 05:14:25,050 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 05:14:25,050 - horary_engine.services.geolocation - INFO - === TIMEZONE DETECTION STARTED for 30.8124247, 34.8594762 ===
+2025-09-01 05:14:25,050 - horary_engine.services.geolocation - INFO - Using TimezoneFinder library
+2025-09-01 05:14:25,052 - horary_engine.services.geolocation - INFO - TimezoneFinder raw result: Asia/Jerusalem
+2025-09-01 05:14:25,052 - horary_engine.services.geolocation - INFO - Validating timezone result...
+2025-09-01 05:14:25,052 - horary_engine.services.geolocation - INFO - TIMEZONE VALIDATION: Checking Asia/Jerusalem for coordinates 30.8124247, 34.8594762
+2025-09-01 05:14:25,052 - horary_engine.services.geolocation - INFO - COORDINATE MATCH: 30.8124247,34.8594762 falls in range 29.5-33.5, 34.0-36.0
+2025-09-01 05:14:25,052 - horary_engine.services.geolocation - INFO - TIMEZONE OK: Asia/Jerusalem is correct for coordinates 30.8124247,34.8594762
+2025-09-01 05:14:25,052 - horary_engine.services.geolocation - INFO - === FINAL TIMEZONE: Asia/Jerusalem (after validation) ===
+2025-09-01 05:14:25,052 - __main__ - INFO - Enhanced timezone detection successful: Asia/Jerusalem for ?????
+2025-09-01 05:14:25,055 - __main__ - INFO - get_timezone completed in 0.77s
+2025-09-01 05:14:25,055 - __main__ - INFO - Response: 200 - POST /api/get-timezone
+2025-09-01 05:14:25,055 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:25] "POST /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 05:14:25,126 - __main__ - INFO - OPTIONS /api/calculate-chart - 127.0.0.1
+2025-09-01 05:14:25,127 - __main__ - INFO - Response: 200 - OPTIONS /api/calculate-chart
+2025-09-01 05:14:25,127 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:25] "OPTIONS /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 05:14:25,129 - __main__ - INFO - POST /api/calculate-chart - 127.0.0.1
+2025-09-01 05:14:25,129 - __main__ - INFO - ENHANCED chart calculation request:
+2025-09-01 05:14:25,129 - __main__ - INFO -   Question: will I win in the lottery?
+2025-09-01 05:14:25,129 - __main__ - INFO -   Location: israel
+2025-09-01 05:14:25,129 - __main__ - INFO -   Date: None
+2025-09-01 05:14:25,129 - __main__ - INFO -   Time: None
+2025-09-01 05:14:25,129 - __main__ - INFO -   Timezone: Asia/Jerusalem
+2025-09-01 05:14:25,129 - __main__ - INFO -   Use current time: True
+2025-09-01 05:14:25,129 - __main__ - INFO - About to call horary_engine.judge()...
+2025-09-01 05:14:25,129 - horary_engine.engine - INFO - === JUDGE METHOD CALLED ===
+2025-09-01 05:14:25,129 - horary_engine.engine - INFO - Question: will I win in the lottery?
+2025-09-01 05:14:25,129 - horary_engine.engine - INFO - Settings: {'location': 'israel', 'date': None, 'time': None, 'timezone': 'Asia/Jerusalem', 'use_current_time': True, 'manual_houses': None, 'ignore_radicality': False, 'ignore_void_moon': False, 'ignore_combustion': False, 'ignore_saturn_7th': False, 'exaltation_confidence_boost': 15}
+2025-09-01 05:14:25,130 - horary_engine.engine - INFO - About to call self.engine.judge_question()...
+2025-09-01 05:14:25,130 - horary_engine.engine - INFO - === JUDGE_QUESTION METHOD CALLED ===
+2025-09-01 05:14:25,130 - horary_engine.engine - INFO - Location parameter: israel
+2025-09-01 05:14:25,775 - horary_engine.services.geolocation - INFO - === TIMEZONE DETECTION STARTED for 30.8124247, 34.8594762 ===
+2025-09-01 05:14:25,775 - horary_engine.services.geolocation - INFO - Using TimezoneFinder library
+2025-09-01 05:14:25,780 - horary_engine.services.geolocation - INFO - TimezoneFinder raw result: Asia/Jerusalem
+2025-09-01 05:14:25,780 - horary_engine.services.geolocation - INFO - Validating timezone result...
+2025-09-01 05:14:25,781 - horary_engine.services.geolocation - INFO - TIMEZONE VALIDATION: Checking Asia/Jerusalem for coordinates 30.8124247, 34.8594762
+2025-09-01 05:14:25,781 - horary_engine.services.geolocation - INFO - COORDINATE MATCH: 30.8124247,34.8594762 falls in range 29.5-33.5, 34.0-36.0
+2025-09-01 05:14:25,781 - horary_engine.services.geolocation - INFO - TIMEZONE OK: Asia/Jerusalem is correct for coordinates 30.8124247,34.8594762
+2025-09-01 05:14:25,781 - horary_engine.services.geolocation - INFO - === FINAL TIMEZONE: Asia/Jerusalem (after validation) ===
+2025-09-01 05:14:25,785 - horary_engine.engine - INFO - Calculating chart for:
+2025-09-01 05:14:25,785 - horary_engine.engine - INFO -   Local time: 2025-09-01 05:14:25.785673+03:00 (Asia/Jerusalem)
+2025-09-01 05:14:25,786 - horary_engine.engine - INFO -   UTC time: 2025-09-01 02:14:25.785673+00:00
+2025-09-01 05:14:25,786 - horary_engine.engine - INFO -   Julian Day (UT): 2460919.5933449073
+2025-09-01 05:14:25,786 - horary_engine.engine - INFO -   Location: ישראל (30.8124, 34.8595)
+2025-09-01 05:14:25,792 - horary_engine.engine - INFO - self.engine.judge_question() completed successfully
+2025-09-01 05:14:25,792 - __main__ - INFO - horary_engine.judge() completed successfully, got result type: <class 'dict'>
+2025-09-01 05:14:25,792 - __main__ - INFO - ENHANCED chart calculation completed in 0.66 seconds
+2025-09-01 05:14:25,792 - __main__ - INFO - ENHANCED chart calculation successful - Judgment: YES (Confidence: 99%)
+2025-09-01 05:14:25,792 - __main__ - INFO - Enhanced solar factors: Under Beams: Mercury
+2025-09-01 05:14:25,792 - __main__ - INFO - Perfection type: direct_timed
+2025-09-01 05:14:25,793 - evaluate_chart - INFO - Contribution ledger: []
+2025-09-01 05:14:25,794 - __main__ - INFO - calculate_chart completed in 0.66s
+2025-09-01 05:14:25,794 - __main__ - INFO - Response: 200 - POST /api/calculate-chart
+2025-09-01 05:14:25,794 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:14:25] "POST /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 05:39:31,274 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-09-01 05:39:31,274 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-09-01 05:39:31,274 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:39:31] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-09-01 05:39:31,276 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-09-01 05:39:32,311 - __main__ - INFO - health completed in 1.03s
+2025-09-01 05:39:32,311 - __main__ - INFO - Response: 200 - GET /api/health
+2025-09-01 05:39:32,312 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:39:32] "GET /api/health HTTP/1.1" 200 -
+2025-09-01 05:43:08,064 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-09-01 05:43:08,064 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-09-01 05:43:08,064 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:43:08] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-09-01 05:43:08,066 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-09-01 05:43:09,086 - __main__ - INFO - health completed in 1.02s
+2025-09-01 05:43:09,086 - __main__ - INFO - Response: 200 - GET /api/health
+2025-09-01 05:43:09,086 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:43:09] "GET /api/health HTTP/1.1" 200 -
+2025-09-01 05:49:55,766 - __main__ - INFO - OPTIONS /api/health - 127.0.0.1
+2025-09-01 05:49:55,766 - __main__ - INFO - Response: 200 - OPTIONS /api/health
+2025-09-01 05:49:55,766 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:49:55] "OPTIONS /api/health HTTP/1.1" 200 -
+2025-09-01 05:49:55,768 - __main__ - INFO - GET /api/health - 127.0.0.1
+2025-09-01 05:49:56,912 - __main__ - INFO - health completed in 1.14s
+2025-09-01 05:49:56,913 - __main__ - INFO - Response: 200 - GET /api/health
+2025-09-01 05:49:56,913 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 05:49:56] "GET /api/health HTTP/1.1" 200 -
+2025-09-01 06:20:12,393 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_rule_engine_priority.py', reloading
+2025-09-01 06:20:12,398 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_category_router_rationale.py', reloading
+2025-09-01 06:20:12,400 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_reception_strength.py', reloading
+2025-09-01 06:20:12,404 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_golden_ae015.py', reloading
+2025-09-01 06:20:12,407 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_aggregator_properties.py', reloading
+2025-09-01 06:20:12,409 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_polarity_sign.py', reloading
+2025-09-01 06:20:12,414 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\tests\\test_aggregator_families.py', reloading
+2025-09-01 06:20:13,076 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:20:13,449 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:20:13,685 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:20:13,697 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:20:13,699 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:20:13,699 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:20:13,699 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:20:13,699 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:20:13,699 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:20:13,699 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:20:13,700 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:20:13,700 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:20:13,712 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:20:13,714 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:20:48,006 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\debug_prohibition_simple.py.tmp.11284.1756696847670', reloading
+2025-09-01 06:20:48,075 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:20:48,399 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:20:48,630 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:20:48,642 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:20:48,643 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:20:48,643 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:20:48,644 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:20:48,644 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:20:48,644 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:20:48,644 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:20:48,644 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:20:48,644 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:20:48,654 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:20:48,656 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:21:43,027 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py', reloading
+2025-09-01 06:21:43,027 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py.tmp.11284.1756696902433', reloading
+2025-09-01 06:21:43,215 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:21:43,544 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:21:43,771 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:21:43,784 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:21:43,786 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:21:43,786 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:21:43,786 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:21:43,786 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:21:43,786 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:21:43,786 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:21:43,786 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:21:43,787 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:21:43,796 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:21:43,798 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:22:07,449 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py', reloading
+2025-09-01 06:22:07,449 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py.tmp.11284.1756696927774', reloading
+2025-09-01 06:22:08,053 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:22:08,376 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:22:08,602 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:22:08,615 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:22:08,617 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:22:08,617 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:22:08,617 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:22:08,617 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:22:08,618 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:22:08,618 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:22:08,618 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:22:08,618 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:22:08,627 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:22:08,629 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:22:25,242 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\test_prohibition.py.tmp.11284.1756696945055', reloading
+2025-09-01 06:22:25,851 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:22:26,174 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:22:26,402 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:22:26,415 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:22:26,417 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:22:26,417 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:22:26,417 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:22:26,417 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:22:26,417 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:22:26,417 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:22:26,417 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:22:26,417 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:22:26,426 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:22:26,428 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:23:17,134 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py', reloading
+2025-09-01 06:23:17,135 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py.tmp.11284.1756696996569', reloading
+2025-09-01 06:23:18,013 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:23:18,331 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:23:18,556 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:23:18,568 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:23:18,570 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:23:18,570 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:23:18,570 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:23:18,570 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:23:18,570 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:23:18,570 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:23:18,570 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:23:18,570 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:23:18,580 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:23:18,582 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:25:29,039 - __main__ - INFO - OPTIONS /api/get-timezone - 127.0.0.1
+2025-09-01 06:25:29,039 - __main__ - INFO - Response: 200 - OPTIONS /api/get-timezone
+2025-09-01 06:25:29,040 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:25:29] "OPTIONS /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 06:25:29,043 - __main__ - INFO - POST /api/get-timezone - 127.0.0.1
+2025-09-01 06:25:29,043 - __main__ - INFO - Getting timezone for location: israel
+2025-09-01 06:25:29,771 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:25:29,782 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:25:29,782 - horary_engine.services.geolocation - INFO - === TIMEZONE DETECTION STARTED for 30.8124247, 34.8594762 ===
+2025-09-01 06:25:29,782 - horary_engine.services.geolocation - INFO - Using TimezoneFinder library
+2025-09-01 06:25:29,784 - horary_engine.services.geolocation - INFO - TimezoneFinder raw result: Asia/Jerusalem
+2025-09-01 06:25:29,784 - horary_engine.services.geolocation - INFO - Validating timezone result...
+2025-09-01 06:25:29,784 - horary_engine.services.geolocation - INFO - TIMEZONE VALIDATION: Checking Asia/Jerusalem for coordinates 30.8124247, 34.8594762
+2025-09-01 06:25:29,785 - horary_engine.services.geolocation - INFO - COORDINATE MATCH: 30.8124247,34.8594762 falls in range 29.5-33.5, 34.0-36.0
+2025-09-01 06:25:29,785 - horary_engine.services.geolocation - INFO - TIMEZONE OK: Asia/Jerusalem is correct for coordinates 30.8124247,34.8594762
+2025-09-01 06:25:29,785 - horary_engine.services.geolocation - INFO - === FINAL TIMEZONE: Asia/Jerusalem (after validation) ===
+2025-09-01 06:25:29,785 - __main__ - INFO - Enhanced timezone detection successful: Asia/Jerusalem for ?????
+2025-09-01 06:25:29,788 - __main__ - INFO - get_timezone completed in 0.75s
+2025-09-01 06:25:29,789 - __main__ - INFO - Response: 200 - POST /api/get-timezone
+2025-09-01 06:25:29,789 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:25:29] "POST /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 06:25:43,626 - __main__ - INFO - OPTIONS /api/calculate-chart - 127.0.0.1
+2025-09-01 06:25:43,627 - __main__ - INFO - Response: 200 - OPTIONS /api/calculate-chart
+2025-09-01 06:25:43,627 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:25:43] "OPTIONS /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 06:25:43,630 - __main__ - INFO - POST /api/calculate-chart - 127.0.0.1
+2025-09-01 06:25:43,630 - __main__ - INFO - ENHANCED chart calculation request:
+2025-09-01 06:25:43,631 - __main__ - INFO -   Question: will I win in the lottery?
+2025-09-01 06:25:43,631 - __main__ - INFO -   Location: israel
+2025-09-01 06:25:43,631 - __main__ - INFO -   Date: 01/09/2025
+2025-09-01 06:25:43,631 - __main__ - INFO -   Time: 05:54
+2025-09-01 06:25:43,631 - __main__ - INFO -   Timezone: Asia/Jerusalem
+2025-09-01 06:25:43,631 - __main__ - INFO -   Use current time: False
+2025-09-01 06:25:43,631 - __main__ - INFO - About to call horary_engine.judge()...
+2025-09-01 06:25:43,632 - horary_engine.engine - INFO - === JUDGE METHOD CALLED ===
+2025-09-01 06:25:43,632 - horary_engine.engine - INFO - Question: will I win in the lottery?
+2025-09-01 06:25:43,632 - horary_engine.engine - INFO - Settings: {'location': 'israel', 'date': '01/09/2025', 'time': '05:54', 'timezone': 'Asia/Jerusalem', 'use_current_time': False, 'manual_houses': None, 'ignore_radicality': False, 'ignore_void_moon': False, 'ignore_combustion': False, 'ignore_saturn_7th': False, 'exaltation_confidence_boost': 15}
+2025-09-01 06:25:43,632 - horary_engine.engine - INFO - About to call self.engine.judge_question()...
+2025-09-01 06:25:43,633 - horary_engine.engine - INFO - === JUDGE_QUESTION METHOD CALLED ===
+2025-09-01 06:25:43,633 - horary_engine.engine - INFO - Location parameter: israel
+2025-09-01 06:25:44,025 - horary_engine.services.geolocation - INFO - Successfully parsed datetime '01/09/2025 05:54' using format '%d/%m/%Y %H:%M'
+2025-09-01 06:25:44,026 - horary_engine.services.geolocation - INFO - Parsed date: 2025-09-01 05:54:00 using format: %d/%m/%Y %H:%M
+2025-09-01 06:25:44,031 - horary_engine.engine - INFO - Calculating chart for:
+2025-09-01 06:25:44,031 - horary_engine.engine - INFO -   Local time: 2025-09-01 05:54:00+03:00 (Asia/Jerusalem)
+2025-09-01 06:25:44,031 - horary_engine.engine - INFO -   UTC time: 2025-09-01 02:54:00+00:00
+2025-09-01 06:25:44,031 - horary_engine.engine - INFO -   Julian Day (UT): 2460919.620833333
+2025-09-01 06:25:44,031 - horary_engine.engine - INFO -   Location: ישראל (30.8124, 34.8595)
+2025-09-01 06:25:44,036 - horary_engine.engine - INFO - self.engine.judge_question() completed successfully
+2025-09-01 06:25:44,036 - __main__ - INFO - horary_engine.judge() completed successfully, got result type: <class 'dict'>
+2025-09-01 06:25:44,036 - __main__ - INFO - ENHANCED chart calculation completed in 0.40 seconds
+2025-09-01 06:25:44,036 - __main__ - INFO - ENHANCED chart calculation successful - Judgment: NO (Confidence: 95%)
+2025-09-01 06:25:44,037 - __main__ - INFO - Enhanced solar factors: Under Beams: Mercury
+2025-09-01 06:25:44,037 - __main__ - INFO - Perfection type: none
+2025-09-01 06:25:44,038 - evaluate_chart - INFO - Contribution ledger: []
+2025-09-01 06:25:44,038 - __main__ - INFO - calculate_chart completed in 0.41s
+2025-09-01 06:25:44,038 - __main__ - INFO - Response: 200 - POST /api/calculate-chart
+2025-09-01 06:25:44,038 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:25:44] "POST /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 06:28:48,162 - __main__ - INFO - OPTIONS /api/get-timezone - 127.0.0.1
+2025-09-01 06:28:48,162 - __main__ - INFO - Response: 200 - OPTIONS /api/get-timezone
+2025-09-01 06:28:48,163 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:28:48] "OPTIONS /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 06:28:48,164 - __main__ - INFO - POST /api/get-timezone - 127.0.0.1
+2025-09-01 06:28:48,165 - __main__ - INFO - Using cached timezone for location: israel
+2025-09-01 06:28:48,165 - __main__ - INFO - get_timezone completed in 0.00s
+2025-09-01 06:28:48,165 - __main__ - INFO - Response: 200 - POST /api/get-timezone
+2025-09-01 06:28:48,165 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:28:48] "POST /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 06:29:04,809 - __main__ - INFO - OPTIONS /api/calculate-chart - 127.0.0.1
+2025-09-01 06:29:04,810 - __main__ - INFO - Response: 200 - OPTIONS /api/calculate-chart
+2025-09-01 06:29:04,811 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:29:04] "OPTIONS /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 06:29:04,814 - __main__ - INFO - POST /api/calculate-chart - 127.0.0.1
+2025-09-01 06:29:04,814 - __main__ - INFO - ENHANCED chart calculation request:
+2025-09-01 06:29:04,814 - __main__ - INFO -   Question: will I win the lottery?
+2025-09-01 06:29:04,814 - __main__ - INFO -   Location: israel
+2025-09-01 06:29:04,814 - __main__ - INFO -   Date: 01/09/2025
+2025-09-01 06:29:04,815 - __main__ - INFO -   Time: 05:14
+2025-09-01 06:29:04,815 - __main__ - INFO -   Timezone: Asia/Jerusalem
+2025-09-01 06:29:04,815 - __main__ - INFO -   Use current time: False
+2025-09-01 06:29:04,815 - __main__ - INFO - About to call horary_engine.judge()...
+2025-09-01 06:29:04,815 - horary_engine.engine - INFO - === JUDGE METHOD CALLED ===
+2025-09-01 06:29:04,815 - horary_engine.engine - INFO - Question: will I win the lottery?
+2025-09-01 06:29:04,815 - horary_engine.engine - INFO - Settings: {'location': 'israel', 'date': '01/09/2025', 'time': '05:14', 'timezone': 'Asia/Jerusalem', 'use_current_time': False, 'manual_houses': None, 'ignore_radicality': False, 'ignore_void_moon': False, 'ignore_combustion': False, 'ignore_saturn_7th': False, 'exaltation_confidence_boost': 15}
+2025-09-01 06:29:04,815 - horary_engine.engine - INFO - About to call self.engine.judge_question()...
+2025-09-01 06:29:04,816 - horary_engine.engine - INFO - === JUDGE_QUESTION METHOD CALLED ===
+2025-09-01 06:29:04,816 - horary_engine.engine - INFO - Location parameter: israel
+2025-09-01 06:29:05,223 - horary_engine.services.geolocation - INFO - Successfully parsed datetime '01/09/2025 05:14' using format '%d/%m/%Y %H:%M'
+2025-09-01 06:29:05,224 - horary_engine.services.geolocation - INFO - Parsed date: 2025-09-01 05:14:00 using format: %d/%m/%Y %H:%M
+2025-09-01 06:29:05,224 - horary_engine.engine - INFO - Calculating chart for:
+2025-09-01 06:29:05,225 - horary_engine.engine - INFO -   Local time: 2025-09-01 05:14:00+03:00 (Asia/Jerusalem)
+2025-09-01 06:29:05,225 - horary_engine.engine - INFO -   UTC time: 2025-09-01 02:14:00+00:00
+2025-09-01 06:29:05,225 - horary_engine.engine - INFO -   Julian Day (UT): 2460919.5930555556
+2025-09-01 06:29:05,225 - horary_engine.engine - INFO -   Location: ישראל (30.8124, 34.8595)
+2025-09-01 06:29:05,229 - horary_engine.engine - INFO - self.engine.judge_question() completed successfully
+2025-09-01 06:29:05,229 - __main__ - INFO - horary_engine.judge() completed successfully, got result type: <class 'dict'>
+2025-09-01 06:29:05,229 - __main__ - INFO - ENHANCED chart calculation completed in 0.41 seconds
+2025-09-01 06:29:05,229 - __main__ - INFO - ENHANCED chart calculation successful - Judgment: YES (Confidence: 99%)
+2025-09-01 06:29:05,229 - __main__ - INFO - Enhanced solar factors: Under Beams: Mercury
+2025-09-01 06:29:05,230 - __main__ - INFO - Perfection type: direct_timed
+2025-09-01 06:29:05,230 - evaluate_chart - INFO - Contribution ledger: []
+2025-09-01 06:29:05,230 - __main__ - INFO - calculate_chart completed in 0.42s
+2025-09-01 06:29:05,230 - __main__ - INFO - Response: 200 - POST /api/calculate-chart
+2025-09-01 06:29:05,231 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:29:05] "POST /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 06:32:27,666 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py', reloading
+2025-09-01 06:32:27,667 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py.tmp.11284.1756697547872', reloading
+2025-09-01 06:32:28,231 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:32:28,556 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:32:28,783 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:32:28,796 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:32:28,797 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:32:28,797 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:32:28,797 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:32:28,798 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:32:28,798 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:32:28,798 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:32:28,798 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:32:28,798 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:32:28,808 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:32:28,810 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:32:45,252 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\test_mars_prohibition.py.tmp.11284.1756697564913', reloading
+2025-09-01 06:32:46,036 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:32:46,352 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:32:46,576 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:32:46,589 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:32:46,591 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:32:46,591 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:32:46,591 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:32:46,591 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:32:46,591 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:32:46,591 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:32:46,591 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:32:46,592 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:32:46,601 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:32:46,603 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:35:38,390 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py', reloading
+2025-09-01 06:35:38,391 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py.tmp.11284.1756697738739', reloading
+2025-09-01 06:35:39,311 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:35:39,624 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:35:39,848 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:35:39,861 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:35:39,863 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:35:39,863 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:35:39,863 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:35:39,863 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:35:39,863 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:35:39,863 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:35:39,863 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:35:39,863 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:35:39,872 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:35:39,875 - werkzeug - INFO -  * Debugger PIN: 886-378-771
+2025-09-01 06:49:17,099 - __main__ - INFO - OPTIONS /api/get-timezone - 127.0.0.1
+2025-09-01 06:49:17,099 - __main__ - INFO - Response: 200 - OPTIONS /api/get-timezone
+2025-09-01 06:49:17,100 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:49:17] "OPTIONS /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 06:49:17,101 - __main__ - INFO - POST /api/get-timezone - 127.0.0.1
+2025-09-01 06:49:17,102 - __main__ - INFO - Getting timezone for location: israel
+2025-09-01 06:49:17,804 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:49:17,817 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:49:17,817 - horary_engine.services.geolocation - INFO - === TIMEZONE DETECTION STARTED for 30.8124247, 34.8594762 ===
+2025-09-01 06:49:17,817 - horary_engine.services.geolocation - INFO - Using TimezoneFinder library
+2025-09-01 06:49:17,819 - horary_engine.services.geolocation - INFO - TimezoneFinder raw result: Asia/Jerusalem
+2025-09-01 06:49:17,819 - horary_engine.services.geolocation - INFO - Validating timezone result...
+2025-09-01 06:49:17,819 - horary_engine.services.geolocation - INFO - TIMEZONE VALIDATION: Checking Asia/Jerusalem for coordinates 30.8124247, 34.8594762
+2025-09-01 06:49:17,819 - horary_engine.services.geolocation - INFO - COORDINATE MATCH: 30.8124247,34.8594762 falls in range 29.5-33.5, 34.0-36.0
+2025-09-01 06:49:17,820 - horary_engine.services.geolocation - INFO - TIMEZONE OK: Asia/Jerusalem is correct for coordinates 30.8124247,34.8594762
+2025-09-01 06:49:17,820 - horary_engine.services.geolocation - INFO - === FINAL TIMEZONE: Asia/Jerusalem (after validation) ===
+2025-09-01 06:49:17,820 - __main__ - INFO - Enhanced timezone detection successful: Asia/Jerusalem for ?????
+2025-09-01 06:49:17,822 - __main__ - INFO - get_timezone completed in 0.72s
+2025-09-01 06:49:17,823 - __main__ - INFO - Response: 200 - POST /api/get-timezone
+2025-09-01 06:49:17,823 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:49:17] "POST /api/get-timezone HTTP/1.1" 200 -
+2025-09-01 06:49:35,307 - __main__ - INFO - OPTIONS /api/calculate-chart - 127.0.0.1
+2025-09-01 06:49:35,307 - __main__ - INFO - Response: 200 - OPTIONS /api/calculate-chart
+2025-09-01 06:49:35,308 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:49:35] "OPTIONS /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 06:49:35,311 - __main__ - INFO - POST /api/calculate-chart - 127.0.0.1
+2025-09-01 06:49:35,311 - __main__ - INFO - ENHANCED chart calculation request:
+2025-09-01 06:49:35,311 - __main__ - INFO -   Question: will I win the lottery?
+2025-09-01 06:49:35,311 - __main__ - INFO -   Location: israel
+2025-09-01 06:49:35,312 - __main__ - INFO -   Date: 01/09/2025
+2025-09-01 06:49:35,312 - __main__ - INFO -   Time: 05:14
+2025-09-01 06:49:35,312 - __main__ - INFO -   Timezone: Asia/Jerusalem
+2025-09-01 06:49:35,312 - __main__ - INFO -   Use current time: False
+2025-09-01 06:49:35,312 - __main__ - INFO - About to call horary_engine.judge()...
+2025-09-01 06:49:35,312 - horary_engine.engine - INFO - === JUDGE METHOD CALLED ===
+2025-09-01 06:49:35,312 - horary_engine.engine - INFO - Question: will I win the lottery?
+2025-09-01 06:49:35,312 - horary_engine.engine - INFO - Settings: {'location': 'israel', 'date': '01/09/2025', 'time': '05:14', 'timezone': 'Asia/Jerusalem', 'use_current_time': False, 'manual_houses': None, 'ignore_radicality': False, 'ignore_void_moon': False, 'ignore_combustion': False, 'ignore_saturn_7th': False, 'exaltation_confidence_boost': 15}
+2025-09-01 06:49:35,312 - horary_engine.engine - INFO - About to call self.engine.judge_question()...
+2025-09-01 06:49:35,312 - horary_engine.engine - INFO - === JUDGE_QUESTION METHOD CALLED ===
+2025-09-01 06:49:35,312 - horary_engine.engine - INFO - Location parameter: israel
+2025-09-01 06:49:35,681 - horary_engine.services.geolocation - INFO - Successfully parsed datetime '01/09/2025 05:14' using format '%d/%m/%Y %H:%M'
+2025-09-01 06:49:35,681 - horary_engine.services.geolocation - INFO - Parsed date: 2025-09-01 05:14:00 using format: %d/%m/%Y %H:%M
+2025-09-01 06:49:35,685 - horary_engine.engine - INFO - Calculating chart for:
+2025-09-01 06:49:35,685 - horary_engine.engine - INFO -   Local time: 2025-09-01 05:14:00+03:00 (Asia/Jerusalem)
+2025-09-01 06:49:35,685 - horary_engine.engine - INFO -   UTC time: 2025-09-01 02:14:00+00:00
+2025-09-01 06:49:35,686 - horary_engine.engine - INFO -   Julian Day (UT): 2460919.5930555556
+2025-09-01 06:49:35,686 - horary_engine.engine - INFO -   Location: ישראל (30.8124, 34.8595)
+2025-09-01 06:49:35,690 - horary_engine.engine - INFO - self.engine.judge_question() completed successfully
+2025-09-01 06:49:35,690 - __main__ - INFO - horary_engine.judge() completed successfully, got result type: <class 'dict'>
+2025-09-01 06:49:35,690 - __main__ - INFO - ENHANCED chart calculation completed in 0.38 seconds
+2025-09-01 06:49:35,691 - __main__ - INFO - ENHANCED chart calculation successful - Judgment: YES (Confidence: 99%)
+2025-09-01 06:49:35,691 - __main__ - INFO - Enhanced solar factors: Under Beams: Mercury
+2025-09-01 06:49:35,691 - __main__ - INFO - Perfection type: direct_timed
+2025-09-01 06:49:35,691 - evaluate_chart - INFO - Contribution ledger: []
+2025-09-01 06:49:35,692 - __main__ - INFO - calculate_chart completed in 0.38s
+2025-09-01 06:49:35,692 - __main__ - INFO - Response: 200 - POST /api/calculate-chart
+2025-09-01 06:49:35,692 - werkzeug - INFO - 127.0.0.1 - - [01/Sep/2025 06:49:35] "POST /api/calculate-chart HTTP/1.1" 200 -
+2025-09-01 06:51:50,673 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py', reloading
+2025-09-01 06:51:50,674 - werkzeug - INFO -  * Detected change in 'C:\\Users\\sabaa\\Downloads\\codexhorary\\backend\\horary_engine\\perfection.py.tmp.11284.1756698711121', reloading
+2025-09-01 06:51:51,384 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-09-01 06:51:51,709 - __main__ - INFO - Logging initialized. Directory: C:\Users\sabaa\Downloads\codexhorary\backend
+2025-09-01 06:51:51,940 - horary_engine.services.geolocation - INFO - TimezoneFinder initialized successfully
+2025-09-01 06:51:51,952 - horary_engine.services.geolocation - INFO - Geolocator initialized successfully
+2025-09-01 06:51:51,953 - __main__ - INFO - Starting Enhanced Traditional Horary Astrology API Server v2.0.0
+2025-09-01 06:51:51,954 - __main__ - INFO - Enhanced Features: Future retrograde, directional motion, enhanced reception
+2025-09-01 06:51:51,954 - __main__ - INFO - New Capabilities: Refranation/abscission detection, enhanced solar conditions
+2025-09-01 06:51:51,954 - __main__ - INFO - Override Options: Radicality, void Moon, combustion, Saturn 7th
+2025-09-01 06:51:51,954 - __main__ - INFO - Classical Sources: Lilly, Bonatti, Ptolemy, Firmicus, Al-Biruni
+2025-09-01 06:51:51,954 - __main__ - INFO - Backward Compatibility: All existing code works unchanged
+2025-09-01 06:51:51,954 - __main__ - INFO - Running in DEVELOPMENT MODE
+2025-09-01 06:51:51,954 - __main__ - INFO - Debug mode enabled
+2025-09-01 06:51:51,965 - werkzeug - WARNING -  * Debugger is active!
+2025-09-01 06:51:51,967 - werkzeug - INFO -  * Debugger PIN: 886-378-771
